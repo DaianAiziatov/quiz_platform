@@ -1,6 +1,6 @@
 ## Quiz platform
 
-Quiz platform with admin functionality where you can create new quizes, modify exsisting ones as well as see users' statistics.
+Quiz platform with admin functionality where you can create new quizes, modify existing ones as well as see users' statistics.
 
 ## Instalation
 
